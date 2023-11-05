@@ -15,7 +15,7 @@ const byte DNS_PORT = 53;
 ESP8266WebServer server(80);
 
 #ifndef STASSIDi
-#define STASSID "Free Reading Wifi"
+#define STASSID "Undercover FBI Surveillance Van"
 #endif
 
 IPAddress apIP(192, 168, 4, 1);
